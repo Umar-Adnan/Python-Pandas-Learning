@@ -1,9 +1,0 @@
-,Employee_ID,Age,Salary,Department,Remote_Worker
-0,101,25.0,50000,IT,True
-1,102,34.0,72000,HR,False
-2,103,29.0,61000,IT,True
-3,104,42.0,110000,Finance,False
-4,105,29.0,58000,IT,True
-5,106,38.0,85000,HR,False
-6,107,,92000,Finance,True
-7,108,29.0,61000,IT,True
