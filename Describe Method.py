@@ -11,6 +11,6 @@ data = {
 }
 
 df = pd.DataFrame(data)
-
+df.to_csv("Sample Dataset")
 print("The DataFrame : \n", df)
 print("Descriptive Analysis : \n", df.describe())
